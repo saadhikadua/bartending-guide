@@ -12,7 +12,7 @@ Being completely new (on scale of 0-4, a 0), we'd like the application to show u
 
 Here are a few ideas you to get you started. This is entirely a blank space application, incorporate your ideas to make it yours!
 
--  The list of all cocktails displayed on the Home page, with their name, glass, image, info. (You'll find a few predefined styles in `Cocktail.css`, feel free to add and modify these).
+-  The list of all cocktails displayed on the Home page, with their name, glass, image and category. (You'll find a few predefined styles in `Cocktail.css`, feel free to add and modify these).
 
 - With each Cocktail item on the home page,  a way to display the details of the cocktails including, Name, Category, Info, glass, instructions and ingredients.
 
